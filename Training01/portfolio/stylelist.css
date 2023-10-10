@@ -1,0 +1,44 @@
+header {
+	background: #111110;
+	color: white;
+	font-family: Times New Roman;
+	border-radius: 20px;
+}
+
+b {
+	font-size: 50px;
+	padding-left: 80px;
+}
+
+a {
+	font-size: 25px;
+	color: rebeccapurple;
+}
+
+table {
+	border-radius: 30px;
+	border: solid white;
+	width: 100%;
+	text-align: center;
+}
+
+#imageLogo {
+	display: block;
+	padding-left: 10px;
+	padding-top: 10px;
+
+	/* Bo viền ảnh */
+	border-radius:50%;
+	-moz-border-radius:50%;
+	-webkit-border-radius:50%;
+}
+
+.imageTUV {
+	border-radius: 20px;
+	text-align: left;
+}
+
+.Overview {
+	padding-left: 10px;
+	padding-right: 10px;
+}
